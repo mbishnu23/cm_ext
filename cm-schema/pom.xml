@@ -103,7 +103,7 @@
     <repository>
       <id>mvn-cli</id>
       <name>MVN CLI</name>
-      <url>https://mvnrepository.com/artifact/</url>
+      <url>https://repository.cloudera.com/repository/jfrog_proxy/</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>

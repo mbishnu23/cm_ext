@@ -99,6 +99,15 @@
         <enabled>false</enabled>
       </snapshots>
     </repository>
+    
+    <repository>
+      <id>mvn-cli</id>
+      <name>MVN CLI</name>
+      <url>https://mvnrepository.com/artifact/</url>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </repository>
   </repositories>
 
   <distributionManagement>

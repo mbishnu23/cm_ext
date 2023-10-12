@@ -269,6 +269,15 @@
         <enabled>false</enabled>
       </snapshots>
     </repository>
+
+    <repository>
+      <id>mvn-cli</id>
+      <name>MVN CLI</name>
+      <url>https://repository.cloudera.com/repository/jfrog_proxy/</url>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </repository>
   </repositories>
 
   <distributionManagement>
